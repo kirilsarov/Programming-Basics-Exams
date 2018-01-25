@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.deps.json
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.runtimeconfig.json
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.runtimeconfig.dev.json
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.dll
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.pdb
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.AssemblyInfo.cs
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.dll
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.pdb

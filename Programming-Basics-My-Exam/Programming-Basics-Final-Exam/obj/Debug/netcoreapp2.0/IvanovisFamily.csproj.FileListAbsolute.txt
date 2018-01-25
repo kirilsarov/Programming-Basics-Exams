@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\bin\Debug\netcoreapp2.0\IvanovisFamily.deps.json
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\bin\Debug\netcoreapp2.0\IvanovisFamily.runtimeconfig.json
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\bin\Debug\netcoreapp2.0\IvanovisFamily.runtimeconfig.dev.json
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\bin\Debug\netcoreapp2.0\IvanovisFamily.dll
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\bin\Debug\netcoreapp2.0\IvanovisFamily.pdb
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\obj\Debug\netcoreapp2.0\IvanovisFamily.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\obj\Debug\netcoreapp2.0\IvanovisFamily.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\obj\Debug\netcoreapp2.0\IvanovisFamily.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\obj\Debug\netcoreapp2.0\IvanovisFamily.AssemblyInfo.cs
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\obj\Debug\netcoreapp2.0\IvanovisFamily.dll
+C:\VisualStudioProjects\Programming-Basics-Final-Exam\Programming-Basics-Final-Exam\obj\Debug\netcoreapp2.0\IvanovisFamily.pdb
