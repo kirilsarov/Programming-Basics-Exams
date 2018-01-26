@@ -1,0 +1,11 @@
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\bin\Debug\netcoreapp2.0\Crown.deps.json
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\bin\Debug\netcoreapp2.0\Crown.runtimeconfig.json
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\bin\Debug\netcoreapp2.0\Crown.runtimeconfig.dev.json
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\bin\Debug\netcoreapp2.0\Crown.dll
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\bin\Debug\netcoreapp2.0\Crown.pdb
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\obj\Debug\netcoreapp2.0\Crown.csprojResolveAssemblyReference.cache
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\obj\Debug\netcoreapp2.0\Crown.csproj.CoreCompileInputs.cache
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\obj\Debug\netcoreapp2.0\Crown.AssemblyInfoInputs.cache
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\obj\Debug\netcoreapp2.0\Crown.AssemblyInfo.cs
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\obj\Debug\netcoreapp2.0\Crown.dll
+C:\Users\PC3\source\repos\Exam-07-05-17\Crown\obj\Debug\netcoreapp2.0\Crown.pdb
