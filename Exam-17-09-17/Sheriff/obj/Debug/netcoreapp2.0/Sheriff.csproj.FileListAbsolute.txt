@@ -1,0 +1,11 @@
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.deps.json
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.runtimeconfig.json
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.runtimeconfig.dev.json
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.dll
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.pdb
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.csprojResolveAssemblyReference.cache
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.csproj.CoreCompileInputs.cache
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.AssemblyInfoInputs.cache
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.AssemblyInfo.cs
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.dll
+C:\Users\PC3\source\repos\Exam-17-09-17\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.pdb
